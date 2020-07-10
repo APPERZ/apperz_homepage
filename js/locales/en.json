@@ -1,0 +1,10 @@
+{
+    "app": {
+        "name": "INSPINIA 2.4"
+    },
+    "nav": {
+        "prjtManager": "PM",
+        "prjtList": "WRF",
+        "prjtJoin": "PDASD"
+    }
+}
